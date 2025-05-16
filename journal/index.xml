@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on Практика</title>
+    <link>https://praktika2025.ru/journal/</link>
+    <description>Recent content in Journals on Практика</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://praktika2025.ru/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Финальный этап</title>
+      <link>https://praktika2025.ru/journal/post3/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://praktika2025.ru/journal/post3/</guid>
+      <description>&lt;p&gt;Мы завершили анализ, оформили сайт и подготовили финальную презентацию.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Промежуточные результаты</title>
+      <link>https://praktika2025.ru/journal/post2/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://praktika2025.ru/journal/post2/</guid>
+      <description>&lt;p&gt;На этом этапе мы подготовили предварительные отчёты и диаграммы по собранным данным.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Начало проекта</title>
+      <link>https://praktika2025.ru/journal/post1/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://praktika2025.ru/journal/post1/</guid>
+      <description>&lt;p&gt;Мы начали с анализа ситуации и сбора данных. Провели первое собрание и распределили роли.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
