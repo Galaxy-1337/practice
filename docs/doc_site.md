@@ -21,15 +21,14 @@
 **Это отражено в следующих коммитах:**
 - [Основные настройки сайта](https://github.com/Galaxy-1337/practice/commit/5ba427305c86632e6a5541a57b8675eda65e5df0);
 - [Добавление статей и разделов на сайт](https://github.com/Galaxy-1337/practice/commit/e444a23119d22986b89e767e60997f4da0b6a25f);
-- [aaa](https://github.com/Galaxy-1337/practice/blob/gh-pages/images/favicon.ico);
 
 ## Создание итоговой версии сайта
 Мы добавляли на сайт нужную нам информацию, изменяли некоторые аспекты дизайна и приводили сайт к итоговому виду.
 Для публикации сайта мы использовали встроенную в гитхаб плафторму github pages, таким образом мы смогли бесплатно разместить наш сайт.
  
 **Это отражено в следующих коммитах:**
-- [Обновление index файла](https://github.com/KolesnikovaIrina412/praktica/commit/a26d2fdc023d9404ba1d643017834fb096e32fac);
-- [Обновление css файла](https://github.com/KolesnikovaIrina412/praktica/commit/7e70d4d80131e61226a4eeabd9f822ba96ba4bdc);
+- [Обновление index файла](https://github.com/Galaxy-1337/practice/commit/0f273dbc68c914bc3f6dd4f3222bbbd024870d9b);
+- [Обновление css файла](https://github.com/Galaxy-1337/practice/commit/81a79066daac0870906c73fd3c391a97424acef4);
 
 ## Публикация сайта на GithubPages
 В течение 22 мая была собрана итоговая версия сайта и загружена в папку site, в итоге сайт 
@@ -39,4 +38,4 @@
 - ![Готовый сайт](https://github.com/Galaxy-1337/practice/blob/gh-pages/images/pic2.png).
   
 **Это отражено в следующем коммите:**
-- [site](https://github.com/Galaxy-1337/practice/commit/acab382d2d866698900914e36c21a3b80d1a69eb);
+- [site](https://github.com/Galaxy-1337/practice/commit/a535cbece30d0614165998b40e62d4ab3555220f);
