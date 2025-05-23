@@ -1,0 +1,30 @@
+baseURL = 'https://galaxy-1337.github.io/practice/'
+languageCode = 'ru-ru'
+title = 'Практика'
+theme = 'ananke'
+[params]
+  custom_css = ["css/custom.css"]
+  favicon = "favicon.ico"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "О проекте"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Участники"
+    url = "/team/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Журнал"
+    url = "/joirnal/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Ресурсы"
+    url = "/resources/"
+    weight = 4
