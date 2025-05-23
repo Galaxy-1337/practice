@@ -36,9 +36,12 @@
 ![фото ВМ 1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
 
 ### 3.
-Далее на языке Python мы написали [скрипт]() для запуска, остановки, перезагрузки ВМ, а также вывода списка доступных ВМ
+Поработали с Docker, подняли docker-контейнер и написали свой Docker file для активации и поднятия простого web-сервера 
+
+### 4.
+Далее на языке Python мы написали [скрипт](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/scrypt.py) для запуска, остановки, перезагрузки ВМ, а также вывода списка доступных ВМ
 И успешно его протестировали
-![фото ВМ 3](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
+![фото ВМ 3](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_3.png)
 
 ---
 
