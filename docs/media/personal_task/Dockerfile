@@ -1,8 +1,3 @@
-FROM python:latest
-
-
-ADD server.py /server/
-ADD index.html /server/
-
-
-WORKDIR /server/
+FROM httpd:latest
+COPY public-html/ /usr/local/apache2/htdocs/
+EXPOSE 80
