@@ -5,7 +5,7 @@
 
 * Ознакомиться с существующим популярным ПО для автоматизации развертывания виртуальных машин и сред контейнеризации
 
-* Более подробно изучить инструменты VMware, Vagrant, Virtualbox, VBoxManage, Docker и их интерфейсы
+* Более подробно изучить инструменты VMware, Vagrant, Virtualbox, VBoxManage, Docker, Docker Compose и их интерфейсы
 
 * Получить навыки установки образов и настройки хостовых машин (вручную и с использованием Vagrant файлов) на ОС Linux, Windows
 
@@ -16,7 +16,7 @@
 ## Оборудование и ПО
 
 - **Хостовая ОС**: Windows 11 Pro; Kali Linuks 
-- **Инструменты**: Windows 10, 11; PowerShell; Коммандная строка; Oracle Virtual Box; Docker; Word; PDF; Telegram
+- **Инструменты**: Windows 10, 11; PowerShell; Коммандная строка; Oracle Virtual Box; Docker; Docker Compose; Word; PDF; Telegram
 
 ---
 
@@ -36,16 +36,20 @@
 ![фото ВМ 1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
 
 ### 3.
+Далее на языке Python мы написали [скрипт](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/scrypt.py) для запуска, остановки, перезагрузки ВМ, а также вывода списка доступных ВМ
+И успешно его протестировали
+![фото ВМ 4](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_4.png)
+
+### 4.
 Поработали с Docker, подняли docker-контейнер и написали свой [Dockerfile](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/Dockerfile) для активации и поднятия простого web-сервера 
 После сборки образа запустили контейнер и проверили его работоспособность
 ![фото ВМ 3](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_3.png)
 
 
-
-### 4.
-Далее на языке Python мы написали [скрипт](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/scrypt.py) для запуска, остановки, перезагрузки ВМ, а также вывода списка доступных ВМ
-И успешно его протестировали
-![фото ВМ 4](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_4.png)
+### 5.
+Изучив Docker мы поработали с инструментальным средством Docker Compose и создали свое клиент-серверное приложение
+Файлы, использованные для выполнения:
+-
 
 ---
 
