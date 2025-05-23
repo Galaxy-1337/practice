@@ -34,6 +34,12 @@
 
 ![фото ВМ 2](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_2.png)
 ![фото ВМ 1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
+
+### 3.
+Далее на языке Python мы написали [скрипт]() для запуска, остановки, перезагрузки ВМ, а также вывода списка доступных ВМ
+И успешно его протестировали
+![фото ВМ 3](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
+
 ---
 
 ## Итог
