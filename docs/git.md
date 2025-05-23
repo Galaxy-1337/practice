@@ -18,4 +18,7 @@
 После этого, в тот же день, была завершена работа над заполнением  и редактированием основных README.md файлов в репозитории.
 
 **Это отражено в следующих коммитах:**
-добавить комиты 
+- [index код готового сайта](https://github.com/Galaxy-1337/practice/commit/0f273dbc68c914bc3f6dd4f3222bbbd024870d9b);
+- [css код готового сайта](https://github.com/Galaxy-1337/practice/commit/81a79066daac0870906c73fd3c391a97424acef4);
+- [ссылка на сайт](https://galaxy-1337.github.io/practice/);
+- [Заполнение README](https://github.com/Galaxy-1337/practice/commit/4abbdb56f578f48c8a9134f4e915eab486204ef5);
