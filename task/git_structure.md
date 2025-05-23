@@ -58,8 +58,8 @@ gh-pages
 │   │   └── index.html
 │   ├── post2/
 │   │   └── index.html
-│   ├──post3/
-│   └── index.html
+│   ├── post3/
+│   │   └── index.html
 │   ├── index.html
 │   └── index.xml     
 ├── resources/
