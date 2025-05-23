@@ -38,8 +38,14 @@
 ## Использованная литература:
 ### Первая тема
 
+Инструменты для автоматизации развертывания ВМ:
 1. [Terraform, официальный сайт](https://www.terraform.io/)
-2. 
+2. [Vagrant, официальный сайт](https://www.vagrantup.com/)
+3. [Ansible, официальный сайт](https://www.ansible.com/)
+
+Инструменты для контейнеризации:
+4. [Docker, официальный сайт](https://www.docker.com/)
+5. [Kubernetes, официальный сайт](https://kubernetes.io/)
 
 ### Вторая и третья тема:
 https://servermall.ru/blog/kakoy-gipervizor-vybrat/ - Существующие гипервизоры
