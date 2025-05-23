@@ -30,29 +30,51 @@ main
 │   └── report_template.md
 └── .gitignore
 
+
+gh-pages
 /
-├── README.md
-├── docs/
-│   ├── README.md
-│   ├── practice_documentation.md
+├── about/
+│   └── index.html
+├── ananke/css/
+│   ├── main.css.map
+│   ├── main.min.css
 │   └── ...
-├── reports/
-│   ├── README.md
-│   ├── report.pdf
-│   └── ...
-├── site/
+├── categories/
 │   ├── index.html
-│   ├── css/
-│   │   └── style.css
-│   └── images/
-│       └── logo.png
-├── src/
-│   ├── main.py
-│   └── ...
-├── task/
-│   ├── README.md
-│   └── report_template.md
-└── .gitignore
+│   └── index.xml     
+├── contact/
+│   └── index.html
+├── css/
+│   ├── custom.css
+│   └── Текстовый документ.txt
+├── cyberpoligon/
+│   └── index.html
+├── joirnal/
+│   └── index.html
+├── journal/
+│   ├── page/1/
+│   │   └── index.html
+│   ├── post1/
+│   │   └── index.html
+│   ├── post2/
+│   │   └── index.html
+│   ├──post3/
+│   └── index.html
+│   ├── index.html
+│   └── index.xml     
+├── resources/
+│   └── index.html
+├── tags/
+│   ├── index.html
+│   └── index.xml 
+├── team/
+│   ├── index.html
+├── 404.html
+├── favico.ico
+├──  favicon.ico
+├── index.html
+├── index.xml
+└── sitemap.xml
 ```
 
 ## Описание структуры git-репозитория
