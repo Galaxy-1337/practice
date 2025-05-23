@@ -65,6 +65,10 @@ gh-pages
 │   └── Текстовый документ.txt
 ├── cyberpoligon/
 │   └── index.html
+├── images/
+│   ├── favicon.ico
+│   ├── pic1.png
+│   └── pic2.png
 ├── joirnal/
 │   └── index.html
 ├── journal/
@@ -77,7 +81,9 @@ gh-pages
 │   ├── post3/
 │   │   └── index.html
 │   ├── index.html
-│   └── index.xml     
+│   └── index.xml
+├── portfolio/
+│   └── index.html    
 ├── resources/
 │   └── index.html
 ├── tags/
@@ -85,6 +91,8 @@ gh-pages
 │   └── index.xml 
 ├── team/
 │   ├── index.html
+├── variant/
+│   └── index.html
 ├── 404.html
 ├── favico.ico
 ├──  favicon.ico
