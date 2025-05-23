@@ -5,6 +5,7 @@
 ## Файловая структура git-репозитория
 
 ```plaintext
+main
 /
 ├── README.md
 ├── docs/
