@@ -32,6 +32,8 @@
 ### 2. 
 Мы установили программу Oracle Virtual Box и с помощью нее скачали и успешно запустили свою первую Виртуальную Машину на ОС Linuks
 
+![фото ВМ 2](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_2.png)
+![фото ВМ 1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
 ---
 
 ## Итог
