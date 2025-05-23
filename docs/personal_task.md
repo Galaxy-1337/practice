@@ -3,9 +3,9 @@
 
 **Задачи:**
 
-* Изучить популярное ПО для автоматизации развертывания виртуальных машин и сред контейнеризации
+* Ознакомиться с существующим популярным ПО для автоматизации развертывания виртуальных машин и сред контейнеризации
 
-* Изучить инструменты VMware, Vagrant, Virtualbox, Docker и их интерфейсы
+* Более подробно изучить инструменты VMware, Vagrant, Virtualbox, VBoxManage, Docker и их интерфейсы
 
 * Получить навыки установки образов и настройки хостовых машин (вручную и с использованием Vagrant файлов) на ОС Linux, Windows
 
@@ -33,3 +33,16 @@
 
 ## Итог
 
+---
+
+## Использованная литература:
+### Первая тема
+
+1. https://www.terraform.io/ - Terraform, официальный сайт
+2. 
+
+### Вторая и третья тема:
+https://servermall.ru/blog/kakoy-gipervizor-vybrat/ - Существующие гипервизоры
+https://ru.wikipedia.org/wiki/VirtualBox - VirtualBox
+https://www.virtualbox.org/manual/ch08.html#vboxmanage-cloud - про VBoxManage
+https://www.oracle.com/technical-resources/articles/it-infrastructure/admin-manage-vbox-cli.html - Литература по управлению ВМ с консоли
