@@ -19,8 +19,9 @@
 - **Дополнительные материалы** на странице "Ресурсы" (ссылки на полезные ресурсы);
 
 **Это отражено в следующих коммитах:**
-- [Добавление медиа](https://github.com/KolesnikovaIrina412/praktica/commit/3444e6b1500bc0f568af92d921a36cad673993f2);
-- [Добавление статей и разделов на сайт](https://github.com/KolesnikovaIrina412/praktica/commit/a26d2fdc023d9404ba1d643017834fb096e32fac);
+- [Основные настройки сайта](https://github.com/Galaxy-1337/practice/commit/5ba427305c86632e6a5541a57b8675eda65e5df0);
+- [Добавление статей и разделов на сайт](https://github.com/Galaxy-1337/practice/commit/e444a23119d22986b89e767e60997f4da0b6a25f);
+- [aaa](https://github.com/Galaxy-1337/practice/blob/gh-pages/images/favicon.ico);
 
 ## Создание итоговой версии сайта
 Мы добавляли на сайт нужную нам информацию, изменяли некоторые аспекты дизайна и приводили сайт к итоговому виду.
@@ -29,14 +30,13 @@
 **Это отражено в следующих коммитах:**
 - [Обновление index файла](https://github.com/KolesnikovaIrina412/praktica/commit/a26d2fdc023d9404ba1d643017834fb096e32fac);
 - [Обновление css файла](https://github.com/KolesnikovaIrina412/praktica/commit/7e70d4d80131e61226a4eeabd9f822ba96ba4bdc);
-- [Добвление js файла](https://github.com/KolesnikovaIrina412/praktica/commit/038c0fb3e2267e8be0f94500d8d3bbc697a9ee11);
 
 ## Публикация сайта на GithubPages
 В течение 22 мая была собрана итоговая версия сайта и загружена в папку site, в итоге сайт 
 выложен в сеть.
 
-- ![Готовый сайт](media/website/site_3.png).
-- ![Готовый сайт](media/website/site_4.png).
+- ![Готовый сайт](https://github.com/Galaxy-1337/practice/blob/gh-pages/images/pic1.png).
+- ![Готовый сайт](https://github.com/Galaxy-1337/practice/blob/gh-pages/images/pic2.png).
   
 **Это отражено в следующем коммите:**
-- [site](https://github.com/KolesnikovaIrina412/praktica/commit/ebb3f23ad2e3b07aa253a49c57441b3d13a924e7);
+- [site](https://github.com/Galaxy-1337/practice/commit/acab382d2d866698900914e36c21a3b80d1a69eb);
