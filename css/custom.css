@@ -1,0 +1,92 @@
+﻿
+/* === ОБЩИЕ НАСТРОЙКИ === */
+body {
+    background-color: #f5f5f5;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: #111;
+    margin: 0;
+    padding: 0;
+}
+
+/* === ШАПКА === */
+header.site-header, nav {
+    background-color: #000;
+    padding: 20px 40px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+    nav a {
+        color: white !important;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-right: 20px;
+        transition: color 0.3s;
+        text-decoration: none;
+    }
+
+        nav a:hover {
+            color: #33aa33 !important;
+        }
+
+/* === КАРТОЧКИ === */
+.card {
+    background-color: #fff;
+    border: 2px solid #33aa33;
+    border-radius: 14px;
+    padding: 24px 28px;
+    margin: 40px auto;
+    max-width: 900px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+}
+
+    .card h3 {
+        margin-top: 0;
+        color: #222;
+    }
+
+    .card ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+    .card li::before {
+        content: "▸";
+        color: #33aa33;
+        margin-right: 8px;
+    }
+
+/* === ЗАГОЛОВКИ === */
+h1, h2, h3 {
+    color: #111;
+    text-transform: none;
+    font-weight: 700;
+}
+
+/* === УБРАТЬ READ MORE === */
+.read-more, a.read-more {
+    display: none !important;
+}
+
+/* === КНОПКИ === */
+button, .btn {
+    background-color: #33aa33;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    button:hover, .btn:hover {
+        background-color: #2b902b;
+    }
+
+/* === ПОДВАЛ === */
+footer {
+    background-color: #000;
+    color: #ccc;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 60px;
+}
