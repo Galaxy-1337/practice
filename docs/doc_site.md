@@ -19,6 +19,7 @@
 - **Дополнительные материалы** на странице "Ресурсы" (ссылки на полезные ресурсы);
 
 **Это отражено в следующих коммитах:**
+- [Добавление медиа](https://raw.githubusercontent.com/Galaxy-1337/practice/refs/heads/gh-pages/images/favicon.ico);
 - [Основные настройки сайта](https://github.com/Galaxy-1337/practice/commit/5ba427305c86632e6a5541a57b8675eda65e5df0);
 - [Добавление статей и разделов на сайт](https://github.com/Galaxy-1337/practice/commit/e444a23119d22986b89e767e60997f4da0b6a25f);
 
