@@ -53,7 +53,7 @@
 
 ### 6.
 На данном этапе мы учились работать с инструментом Vagrant для реализации автоматического развертывания тасков по ИБ
-Мы создали  [Vagrantfile](), который будет запускать kali linux (из базового box - kalilinux/rolling) и в директории /opt создавать файл с флагом (flag{...})
+Мы создали  [Vagrantfile](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/s6/Vagrantfile), который будет запускать kali linux (из базового box - kalilinux/rolling) и в директории /opt создавать файл с флагом (flag{...})
 
 ---
 
