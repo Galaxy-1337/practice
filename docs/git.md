@@ -6,7 +6,7 @@
 [practice-2025-1](https://github.com/mospol/practice-2025-1). Для этого:
 - Создана структура папок и файлов в соответствии с шаблоном и добавлением новых папок и одной ветки за необходимостью;
 - Текстовое содержимое скопировано из образца в соответствующие файлы и отредактировано в соответствии с заданием.  
-![1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/git/gitpic1.png)
+![1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/git/git.png)
 
 ## Работа в Git и его заполнение
 
