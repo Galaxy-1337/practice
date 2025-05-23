@@ -36,12 +36,16 @@
 ![фото ВМ 1](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_1.png)
 
 ### 3.
-Поработали с Docker, подняли docker-контейнер и написали свой Docker file для активации и поднятия простого web-сервера 
+Поработали с Docker, подняли docker-контейнер и написали свой [Dockerfile](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/Dockerfile) для активации и поднятия простого web-сервера 
+После сборки образа запустили контейнер и проверили его работоспособность
+![фото ВМ 3](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_3.png)
+
+
 
 ### 4.
 Далее на языке Python мы написали [скрипт](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/scrypt.py) для запуска, остановки, перезагрузки ВМ, а также вывода списка доступных ВМ
 И успешно его протестировали
-![фото ВМ 3](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_3.png)
+![фото ВМ 4](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_4.png)
 
 ---
 
