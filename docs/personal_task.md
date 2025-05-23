@@ -49,6 +49,7 @@
 ### 5.
 Изучив Docker мы поработали с инструментальным средством Docker Compose и создали свое клиент-серверное приложение
 Файлы, использованные для выполнения храняться в репозитории [по этой ссылке](https://github.com/Galaxy-1337/practice/tree/main/docs/media/personal_task/s5)
+![фото ВМ 5](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_5.png)
 
 ---
 
