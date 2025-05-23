@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Практика</title>
-    <link>https://galaxy-1337.github.io/practice/</link>
+    <link>https://Galaxy-1337.github.io/practice/</link>
     <description>Recent content on Практика</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="https://galaxy-1337.github.io/practice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Galaxy-1337.github.io/practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://galaxy-1337.github.io/practice/cyberpoligon/</link>
+      <link>https://Galaxy-1337.github.io/practice/cyberpoligon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/cyberpoligon/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/cyberpoligon/</guid>
       <description>&lt;h2 id=&#34;киберполигон&#34;&gt;Киберполигон&lt;/h2&gt;&#xA;&lt;p&gt;Инновационная образовательно-исследовательская платформа для подготовки специалистов в области кибербезопасности.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://galaxy-1337.github.io/practice/about/</link>
+      <link>https://Galaxy-1337.github.io/practice/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/about/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/about/</guid>
       <description>&lt;h2 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h2&gt;&#xA;&lt;h3 id=&#34;введение&#34;&gt;Введение&lt;/h3&gt;&#xA;&lt;p&gt;«Киберполигон» представляет собой цифровую среду, объединяющую образовательные, исследовательские и практические инструменты для студентов и специалистов в сфере информационной безопасности. Проект сочетает современные IT-технологии, включая облачную инфраструктуру, симуляцию сетевых угроз и интерактивные обучающие модули, чтобы обеспечить комплексный подход к обучению кибербезопасности. Платформа способствует преодолению разрыва между теоретической подготовкой и реальными требованиями индустрии&lt;/p&gt;&#xA;&lt;h3 id=&#34;проблемы&#34;&gt;Проблемы&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Недостаток практического опыта&lt;/strong&gt; — у студентов мало возможностей работать с реальными сценариями кибератак из-за отсутствия безопасных учебных площадок&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://galaxy-1337.github.io/practice/contact/</link>
+      <link>https://Galaxy-1337.github.io/practice/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/contact/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/contact/</guid>
       <description>&lt;h2 id=&#34;аннотация-проекта&#34;&gt;Аннотация проекта&lt;/h2&gt;&#xA;&lt;p&gt;Цель проекта «Киберполигон» заключается в создании инновационной образовательно-исследовательской платформы для подготовки высококвалифицированных специалистов в области кибербезопасности.&lt;/p&gt;&#xA;&lt;p&gt;Проект направлен на:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;разработку веб-интерфейса на &lt;strong&gt;React&lt;/strong&gt;,&lt;/li&gt;&#xA;&lt;li&gt;бэкенда на &lt;strong&gt;Django&lt;/strong&gt;,&lt;/li&gt;&#xA;&lt;li&gt;интеграцию систем виртуализации (&lt;strong&gt;VirtualBox&lt;/strong&gt;, &lt;strong&gt;KVM&lt;/strong&gt;) и контейнеризации (&lt;strong&gt;Docker&lt;/strong&gt;) для моделирования реальных кибератак и отработки навыков защиты информационных систем.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;75 участников&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Куратор:&lt;/strong&gt; Гневшев А.Ю.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://galaxy-1337.github.io/practice/joirnal/</link>
+      <link>https://Galaxy-1337.github.io/practice/joirnal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/joirnal/</guid>
-      <description>&lt;h2 id=&#34;журнал&#34;&gt;Журнал&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Работа с Git&lt;/strong&gt;&lt;br&gt;&#xA;✔️Завершено&lt;br&gt;&#xA;14.05.2025&lt;/p&gt;&#xA;&lt;p&gt;‣ Организован командный репозиторий на GitHub на базе шаблона&lt;br&gt;&#xA;‣  Освоены ключевые операции Git:&lt;br&gt;&#xA;     -git clone — копирование репозитория на локальное устройство&lt;br&gt;&#xA;     -git commit -m &amp;ldquo;описание&amp;rdquo; — фиксация изменений с комментарием&lt;br&gt;&#xA;     -git push — синхронизация с удалённым хранилищем&lt;br&gt;&#xA;     -git branch и git checkout — управление ветками разработки&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2. Работа с вариативной частью&lt;/strong&gt;&lt;br&gt;&#xA;✔️Завершено&lt;br&gt;&#xA;22.05.2025&lt;br&gt;&#xA;‣  Осуществлен поиск информации про ОС Linux&lt;br&gt;&#xA;‣  Осуществлен поиск информации, относящийся слабостям ОС Linux&lt;br&gt;&#xA;‣  Обработка информации и создание рекомендаций по защите&lt;/p&gt;</description>
+      <guid>https://Galaxy-1337.github.io/practice/joirnal/</guid>
+      <description>&lt;h2 id=&#34;журнал&#34;&gt;Журнал&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Работа с вариативной частью&#xA;✔️Завершено&#xA;22.04.2025&#xA;‣ Осуществлен поиск информации про ОС Linux&#xA;‣ Осуществлен поиск информации, относящийся слабостям ОС Linux&#xA;‣ Обработка информации и создание рекомендаций по защите&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Работа с Git&#xA;✔️Завершено&#xA;15.05.2025&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;‣ Организован командный репозиторий на GitHub на базе шаблона&#xA;‣ Освоены ключевые операции Git:&#xA;-git clone — копирование репозитория на локальное устройство&#xA;-git commit -m &amp;ldquo;описание&amp;rdquo; — фиксация изменений с комментарием&#xA;-git push — синхронизация с удалённым хранилищем&#xA;-git branch и git checkout — управление ветками разработки&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://galaxy-1337.github.io/practice/journal/</link>
+      <link>https://Galaxy-1337.github.io/practice/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/journal/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/journal/</guid>
       <description></description>
     </item>
     <item>
       <title>Практика</title>
-      <link>https://galaxy-1337.github.io/practice/_index404/</link>
+      <link>https://Galaxy-1337.github.io/practice/_index404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/_index404/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/_index404/</guid>
       <description>&lt;h1 id=&#34;добро-пожаловать&#34;&gt;Добро пожаловать!&lt;/h1&gt;&#xA;&lt;p&gt;[menu]&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;Киберполигон&amp;rdquo;&#xA;url = &amp;ldquo;/cyberpoligon/&amp;rdquo;&#xA;weight = 1&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;О проекте&amp;rdquo;&#xA;url = &amp;ldquo;/about/&amp;rdquo;&#xA;weight = 2&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;Участники&amp;rdquo;&#xA;url = &amp;ldquo;/team/&amp;rdquo;&#xA;weight = 3&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;Ресурсы&amp;rdquo;&#xA;url = &amp;ldquo;/resources/&amp;rdquo;&#xA;weight = 4&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ресурсы</title>
-      <link>https://galaxy-1337.github.io/practice/resources/</link>
+      <link>https://Galaxy-1337.github.io/practice/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/resources/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/resources/</guid>
       <description>&lt;h2 id=&#34;полезные-ссылки&#34;&gt;Полезные ссылки&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.novostiitkanala.ru/news/detail.php?ID=169070&#34;&gt;ГУАП (Санкт-Петербургский государственный университет аэрокосмического приборостроения)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.company.rt.ru/press/news_fill/d459226/&#34;&gt;ИТМО&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dzen.ru/a/Y0kkLTaMtmNwQsVg&#34;&gt;МЭИ&lt;/a&gt; &lt;br&gt;&#xA;Open Source проекты для киберполигонов:&lt;br&gt;&#xA;     • &lt;a href=&#34;https://www.kali.org/&#34;&gt;Kali Linux&lt;/a&gt;&lt;br&gt;&#xA;     • &lt;a href=&#34;https://www.metasploit.com/&#34;&gt;Metasploit&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Участники</title>
-      <link>https://galaxy-1337.github.io/practice/team/</link>
+      <link>https://Galaxy-1337.github.io/practice/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://galaxy-1337.github.io/practice/team/</guid>
+      <guid>https://Galaxy-1337.github.io/practice/team/</guid>
       <description>&lt;h2 id=&#34;команда-проекта&#34;&gt;Команда проекта&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Попиков Иван&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Казарян Мария&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Парамонычева Анастасия&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Работая в одной команде, мы&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Изученили инструменты VMware, Vagrant, Virtualbox, Docker и их интерфейсы&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Получении навыкы установки образов и настройки хостовых машин (вручную и с использованием Vagrant файлов) на ОС Linux, Windows&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Создали и настроили вручную Windows server 2016.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
