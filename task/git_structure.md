@@ -7,28 +7,45 @@
 ```plaintext
 main
 /
-├── README.md
+├── content/
+│   ├── journal/
+│   │   ├── index.md
+│   │   ├── post1.md
+│   │   └── ...
+│   ├── _index404.md
+│   ├── about.md
+│   ├── contact.md
+│   ├── cyberpoligon.md
+│   ├── joirnal.md
+│   ├── resources.md
+│   ├── team.md
+│   └── variant.md
 ├── docs/
+│   ├── media/
+│   │   ├── git/
+│   │   ├── personal_task/
+│   │   │   ├── s3/
+│   │   │   ├── s4/
+│   │   │   ├── s5/
+│   │   │   ├── s6/
+│   │   │   ├── pt_1.png
+│   │   │   └── ...
+│   │   ├── website/
+│   │   ├──
+│   │   └──
 │   ├── README.md
-│   ├── practice_documentation.md
-│   └── ...
+│   └── 
 ├── reports/
-│   ├── README.md
-│   ├── report.pdf
-│   └── ...
-├── site/
-│   ├── index.html
-│   ├── css/
-│   │   └── style.css
-│   └── images/
-│       └── logo.png
-├── src/
-│   ├── main.py
-│   └── ...
+│   ├── Отчёт_пп_ПопиковИА.pdf
+│   ├── 
+│   └── 
 ├── task/
 │   ├── README.md
-│   └── report_template.md
-└── .gitignore
+│   ├── git_structure.md
+│   └── terms.md
+├── README.md
+├── config.toml
+└── gitignore
 
 
 gh-pages
