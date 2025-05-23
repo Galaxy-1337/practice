@@ -43,13 +43,6 @@
       <description></description>
     </item>
     <item>
-      <title>Практика</title>
-      <link>https://Galaxy-1337.github.io/practice/_index404/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Galaxy-1337.github.io/practice/_index404/</guid>
-      <description>&lt;h1 id=&#34;добро-пожаловать&#34;&gt;Добро пожаловать!&lt;/h1&gt;&#xA;&lt;p&gt;[menu]&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;Киберполигон&amp;rdquo;&#xA;url = &amp;ldquo;/cyberpoligon/&amp;rdquo;&#xA;weight = 1&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;О проекте&amp;rdquo;&#xA;url = &amp;ldquo;/about/&amp;rdquo;&#xA;weight = 2&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;Участники&amp;rdquo;&#xA;url = &amp;ldquo;/team/&amp;rdquo;&#xA;weight = 3&lt;/p&gt;&#xA;&lt;p&gt;[[menu.main]]&#xA;name = &amp;ldquo;Ресурсы&amp;rdquo;&#xA;url = &amp;ldquo;/resources/&amp;rdquo;&#xA;weight = 4&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Ресурсы</title>
       <link>https://Galaxy-1337.github.io/practice/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
