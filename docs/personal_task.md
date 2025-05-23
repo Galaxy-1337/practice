@@ -51,6 +51,10 @@
 Файлы, использованные для выполнения храняться в репозитории [по этой ссылке](https://github.com/Galaxy-1337/practice/tree/main/docs/media/personal_task/s5)
 ![фото ВМ 5](https://github.com/Galaxy-1337/practice/blob/main/docs/media/personal_task/pt_5.png)
 
+### 6.
+На данном этапе мы учились работать с инструментом Vagrant для реализации автоматического развертывания тасков по ИБ
+Мы создали  [Vagrantfile](), который будет запускать kali linux (из базового box - kalilinux/rolling) и в директории /opt создавать файл с флагом (flag{...})
+
 ---
 
 ## Итог
