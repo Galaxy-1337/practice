@@ -1,4 +1,4 @@
-baseURL = 'https://galaxy-1337.github.io/practice/'
+baseURL = 'https://Galaxy-1337.github.io/practice/'
 languageCode = 'ru-ru'
 title = 'Практика'
 theme = 'ananke'
@@ -20,11 +20,16 @@ theme = 'ananke'
     weight = 2
 
   [[menu.main]]
+    name = "Вариативная часть"
+    url = "/variant/"
+    weight = 3
+
+  [[menu.main]]
     name = "Журнал"
     url = "/joirnal/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Ресурсы"
     url = "/resources/"
-    weight = 4
+    weight = 5
